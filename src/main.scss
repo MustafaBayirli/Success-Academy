@@ -1,0 +1,11 @@
+//custom variables
+$primary: #E48125;
+$info: #07AEB7;
+$secondary: #666666;
+$success: #2B998E;
+$warning: #CC6600;
+$list-group-border-color: $primary;
+$nav-tabs-link-active-border-color: $secondary;
+
+//import bootstrap
+@import '~bootstrap/scss/bootstrap.scss';
