@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/success-academy/static/css/main.5901ca25.css",
-    "main.js": "/success-academy/static/js/main.7d144567.js",
+    "main.js": "/success-academy/static/js/main.55dab18b.js",
     "static/media/test.jpeg": "/success-academy/static/media/test.3abd8990b08be1d74c59.jpeg",
     "static/media/science.jpeg": "/success-academy/static/media/science.e498f26b63f25d8b4bd2.jpeg",
     "static/media/english.jpeg": "/success-academy/static/media/english.2f13ee6c938d678dfd5b.jpeg",
@@ -20,10 +20,10 @@
     "static/media/logo.svg": "/success-academy/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/success-academy/index.html",
     "main.5901ca25.css.map": "/success-academy/static/css/main.5901ca25.css.map",
-    "main.7d144567.js.map": "/success-academy/static/js/main.7d144567.js.map"
+    "main.55dab18b.js.map": "/success-academy/static/js/main.55dab18b.js.map"
   },
   "entrypoints": [
     "static/css/main.5901ca25.css",
-    "static/js/main.7d144567.js"
+    "static/js/main.55dab18b.js"
   ]
 }
