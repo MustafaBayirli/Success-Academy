@@ -1,3 +1,16 @@
+Welcome to the Success Academy Web Application Repository!
+
+This web application is designed to deliver a comprehensive and well-rounded education to its students. It offers an
+extensive range of courses encompassing fundamental subjects such as science,
+mathematics, and English. Success Academy believes in empowering learners to achieve their full potential,
+fostering a passion for learning, and preparing them to thrive both academically and
+personally.
+
+
+Direct Access to the Website:
+https://MustafaBayirli.github.io/Success-Academy
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
