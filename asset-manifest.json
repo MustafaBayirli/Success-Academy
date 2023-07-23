@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/success-academy/static/css/main.5901ca25.css",
-    "main.js": "/success-academy/static/js/main.55dab18b.js",
-    "static/media/test.jpeg": "/success-academy/static/media/test.3abd8990b08be1d74c59.jpeg",
-    "static/media/science.jpeg": "/success-academy/static/media/science.e498f26b63f25d8b4bd2.jpeg",
-    "static/media/english.jpeg": "/success-academy/static/media/english.2f13ee6c938d678dfd5b.jpeg",
-    "static/media/math.jpeg": "/success-academy/static/media/math.1ff0598aeb911002b65e.jpeg",
-    "static/media/home.jpeg": "/success-academy/static/media/home.65aed31bef4aadd1ae72.jpeg",
-    "static/media/bootstrap-icons.woff?": "/success-academy/static/media/bootstrap-icons.4753c5ba57962b4d7bf8.woff",
-    "static/media/bootstrap-icons.woff2?": "/success-academy/static/media/bootstrap-icons.6d63d0501e5ed7b79dab.woff2",
-    "static/media/Physics.jpg": "/success-academy/static/media/Physics.c2f6689c74cdf0d9bd11.jpg",
-    "static/media/Organic Chemistry.jpg": "/success-academy/static/media/Organic Chemistry.b872e9c3b7ae1c303e7c.jpg",
-    "static/media/Biology.jpg": "/success-academy/static/media/Biology.f3e08a590df464cfe8a6.jpg",
-    "static/media/EngGrammar.webp": "/success-academy/static/media/EngGrammar.bacfeefd3cec4e1d3727.webp",
-    "static/media/logo.jpeg": "/success-academy/static/media/logo.9664fd0bb8f02bbf7245.jpeg",
-    "static/media/SAT.jpeg": "/success-academy/static/media/SAT.18c07bfb6e3c6ff2e457.jpeg",
-    "static/media/EngWriting.jpeg": "/success-academy/static/media/EngWriting.6714b9b5618db821a616.jpeg",
-    "static/media/EngSpeaking.webp": "/success-academy/static/media/EngSpeaking.b8814ae84077b0da2d31.webp",
-    "static/media/logo.svg": "/success-academy/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/success-academy/index.html",
-    "main.5901ca25.css.map": "/success-academy/static/css/main.5901ca25.css.map",
-    "main.55dab18b.js.map": "/success-academy/static/js/main.55dab18b.js.map"
+    "main.css": "/Success-Academy/static/css/main.06d99a66.css",
+    "main.js": "/Success-Academy/static/js/main.dc2c3555.js",
+    "static/media/test.jpeg": "/Success-Academy/static/media/test.3abd8990b08be1d74c59.jpeg",
+    "static/media/science.jpeg": "/Success-Academy/static/media/science.e498f26b63f25d8b4bd2.jpeg",
+    "static/media/english.jpeg": "/Success-Academy/static/media/english.2f13ee6c938d678dfd5b.jpeg",
+    "static/media/math.jpeg": "/Success-Academy/static/media/math.1ff0598aeb911002b65e.jpeg",
+    "static/media/home.jpeg": "/Success-Academy/static/media/home.65aed31bef4aadd1ae72.jpeg",
+    "static/media/bootstrap-icons.woff?": "/Success-Academy/static/media/bootstrap-icons.4753c5ba57962b4d7bf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/Success-Academy/static/media/bootstrap-icons.6d63d0501e5ed7b79dab.woff2",
+    "static/media/Physics.jpg": "/Success-Academy/static/media/Physics.c2f6689c74cdf0d9bd11.jpg",
+    "static/media/Organic Chemistry.jpg": "/Success-Academy/static/media/Organic Chemistry.b872e9c3b7ae1c303e7c.jpg",
+    "static/media/Biology.jpg": "/Success-Academy/static/media/Biology.f3e08a590df464cfe8a6.jpg",
+    "static/media/EngGrammar.webp": "/Success-Academy/static/media/EngGrammar.bacfeefd3cec4e1d3727.webp",
+    "static/media/logo.jpeg": "/Success-Academy/static/media/logo.9664fd0bb8f02bbf7245.jpeg",
+    "static/media/SAT.jpeg": "/Success-Academy/static/media/SAT.18c07bfb6e3c6ff2e457.jpeg",
+    "static/media/EngWriting.jpeg": "/Success-Academy/static/media/EngWriting.6714b9b5618db821a616.jpeg",
+    "static/media/EngSpeaking.webp": "/Success-Academy/static/media/EngSpeaking.b8814ae84077b0da2d31.webp",
+    "static/media/logo.svg": "/Success-Academy/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Success-Academy/index.html",
+    "main.06d99a66.css.map": "/Success-Academy/static/css/main.06d99a66.css.map",
+    "main.dc2c3555.js.map": "/Success-Academy/static/js/main.dc2c3555.js.map"
   },
   "entrypoints": [
-    "static/css/main.5901ca25.css",
-    "static/js/main.55dab18b.js"
+    "static/css/main.06d99a66.css",
+    "static/js/main.dc2c3555.js"
   ]
 }
